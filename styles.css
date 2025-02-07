@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+div#main{
+	text-align : center;
+	align-items : center;
+	align-content : center;
+	width : 700px;
+	height : 700px;
+	padding : 2px;
+	background-color : #d8e2dc;
+	box-shadow: 1px 2px 8px 1px #023047;
+}
+
+img#img {
+	width : 550px;
+	border-radius : 10%;	
+}
+
+button#btn{
+	padding : 5px;
+	background-color : #fb8500;
+	border-radius : 20%;
+}
